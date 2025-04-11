@@ -1,2 +1,2 @@
 # lora-communication
-Repositório destinado aos códigos do projeto de comunicação entre rádios LoRa usando ESP32 via ArduinoIDE.
+Neste repositório estão os códigos usados para estudar a implementação de uma comunicação entre rádios LoRa, bem com o uso do armazenamento interno do microcontrolador ESP32 (nvs).
